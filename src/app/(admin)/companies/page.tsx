@@ -1,12 +1,12 @@
 import React from "react";
 
-import Header from "@/app/components/header";
-import Toolbar from "@/app/components/toolbar";
-import SearchInput from "@/app/components/searchInput";
-import AddCompanyButton from "@/app/components/addCompanyButton";
-import CompanyTable from "@/app/components/companyTable";
-import CompanyRow from "@/app/components/companyRow";
-import { Status } from "@/app/components/statusLabel";
+import Header from "@/app/components/Header";
+import Toolbar from "@/app/components/Toolbar";
+import SearchInput from "@/app/components/SearchInput";
+import AddCompanyButton from "@/app/components/AddCompanyButton";
+import CompanyTable from "@/app/components/CompanyTable";
+import CompanyRow from "@/app/components/CompanyRow";
+import { Status } from "@/app/components/StatusLabel";
 
 export interface PageProps {}
 

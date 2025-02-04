@@ -1,5 +1,5 @@
-import StatisticsCard from "./statisticsCard";
+import StatisticsCard from "./StatisticsCard";
 
-export * from "./statisticsCard";
+export * from "./StatisticsCard";
 
 export default StatisticsCard;

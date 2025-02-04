@@ -4,7 +4,7 @@ import { getSummaryStats } from "@/lib/api";
 
 import StatisticsCard, {
   StatisticsCardType,
-} from "@/app/components/statisticsCard";
+} from "@/app/components/StatisticsCard";
 
 export interface PageProps {}
 

@@ -1,4 +1,4 @@
-import AddCompanyButton from "@/app/components/addCompanyButton";
+import AddCompanyButton from "@/app/components/AddCompanyButton";
 
 export default function Home() {
   return (

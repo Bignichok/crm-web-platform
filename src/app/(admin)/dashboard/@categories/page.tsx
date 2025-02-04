@@ -4,8 +4,8 @@ import { getSummaryCategories } from "@/lib/api";
 
 import StatisticsCard, {
   StatisticsCardType,
-} from "@/app/components/statisticsCard";
-import DashboardCard from "@/app/components/dashboardCard";
+} from "@/app/components/StatisticsCard";
+import DashboardCard from "@/app/components/DashboardCard";
 
 export interface PageProps {}
 

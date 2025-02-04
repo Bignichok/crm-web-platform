@@ -4,7 +4,7 @@ import clsx from "clsx";
 
 import { getSummaryCountries } from "@/lib/api";
 
-import DashboardCard from "@/app/components/dashboardCard";
+import DashboardCard from "@/app/components/DashboardCard";
 
 export interface PageProps {}
 

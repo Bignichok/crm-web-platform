@@ -2,10 +2,10 @@ import React from "react";
 
 import { getSummaryPromotions } from "@/lib/api";
 
-import SummaryTable from "@/app/components/summaryTable";
-import SummaryTableHeader from "@/app/components/summaryTableHeader";
-import SummaryTableCell from "@/app/components/summaryTableCell";
-import DashboardCard from "@/app/components/dashboardCard";
+import SummaryTable from "@/app/components/SummaryTable";
+import SummaryTableHeader from "@/app/components/SummaryTableHeader";
+import SummaryTableCell from "@/app/components/SummaryTableCell";
+import DashboardCard from "@/app/components/DashboardCard";
 
 export interface PageProps {}
 
