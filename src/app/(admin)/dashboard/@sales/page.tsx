@@ -1,7 +1,5 @@
 import React from "react";
-
 import { getSummarySales } from "@/lib/api";
-
 import SummaryTable from "@/app/components/SummaryTable";
 import SummaryTableHeader from "@/app/components/SummaryTableHeader";
 import SummaryTableCell from "@/app/components/SummaryTableCell";
